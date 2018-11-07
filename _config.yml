@@ -30,7 +30,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hasan "Hasi" Öztutar
+title: Hasan Öztutar
 subtitle: Portfolio & Blog
 description: >- # this means to ignore newlines until "baseurl:"
   This is a portfolio and blog by Hasi
@@ -44,7 +44,7 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url: https://twitter.com/ellatran
+twitter_url:
 facebook_url:
 googleplus_url:
 instagram_url:
